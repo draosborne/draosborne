@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @draosborne
+- 👋 Hi, I’m Ashley Osborne
 - 👀 I’m interested in improving NICU parent discharge readiness, their understanding of prematurity and their emotional well-being.
-- 🌱 I’m currently learning from NICU families how we can better support them.
-- 💞️ I’m looking to collaborate on NICU mhealth/ehealth interventions.
+- 🌱 I’m currently learning from NICU families how we can better support them during admission & the transition home.
+- 💞️ I’m looking to collaborate on NICU mHealth/eHealth interventions.
 - 📫 How to reach me: ashley.osborne25@gmail.com
 
 <!---
